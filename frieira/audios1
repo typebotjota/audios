@@ -117,7 +117,7 @@
 <body>
   <div class="audio-container" id="audioContainer">
     <!-- Cole o link do Seu áudio Abaixo-->
-    <audio class="plyr" src="https://s3.typebot.io/public/workspaces/clops7adb001cl30fm6apz9rg/typebots/clp33kq5v0009le0fr2nignh5/blocks/azq24uizdwyu35l2rnvvjzte?v=1700796824610"></audio>
+    <audio class="plyr" src="https://minio-production-3fbe.up.railway.app/typebot/public/workspaces/clpist8yp0001mc4sobdiyi7w/typebots/clpjfk3wd000nmc4sa7zz6niz/blocks/ftrkzry2vj8jpczvjf3ys8ko?v=1701471168239"></audio>
     <!-- Cole o link da Sua imagem Abaixo-->
     <img src="https://i.postimg.cc/GpNVSwSv/host-Avatar.jpg" alt="Imagem">
     <div class="microphone-icon">
